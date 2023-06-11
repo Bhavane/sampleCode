@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-position: center;
+}
+
+.main-container{
+  min-height:100vh;
+  background-color:black;
+  justify-content:center;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+.mainheading{
+  color:white;
+  font-family:"Roboto";
+  font-size:24px;
+  letter-spacing:0.2rem;
+}
+img{
+  width:250px;
+  height:250px;
+}
